@@ -1,8 +1,0 @@
-
-Cutomer :
-1) Home 	 	- Missing user profile page , profile page should consist of user info, order history, logout
-2) Reservation          - Missing reserve a table button  after entering preffered time slot
-2) Order Summary 	- Customer shipping address to be edited,added,deleted.
-3) Order Summary 	- Payment form
-3) Order details page   - No order cancellation button, require refunds information 
-5) Order details page   - No rating module 
